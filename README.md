@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/44965706/155652608-c81785e2-6bfe-435f-ae25-79d5787e8946.gif"/><br/>
+
 <!--
 **suddy78/suddy78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
