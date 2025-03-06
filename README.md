@@ -1,7 +1,5 @@
 <div align="center">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome!;This+is+suyoun's+Github!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&pause=1000&color=63B335&center=true&vCenter=true&width=435&lines=Welcome!;This+is+suyoun's+Github%F0%9F%A5%B0" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/44965706/155652608-c81785e2-6bfe-435f-ae25-79d5787e8946.gif"/><br/>
 
 <!--
