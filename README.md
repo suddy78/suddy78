@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello+suyun's+Github!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome!;Hello+suyun's+Github!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 <img src="https://user-images.githubusercontent.com/44965706/155652608-c81785e2-6bfe-435f-ae25-79d5787e8946.gif"/><br/>
 
